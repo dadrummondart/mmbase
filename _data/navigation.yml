@@ -1,12 +1,14 @@
 # main links
 main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Portfolio"
      url: /portfolio/
-   - title: "Shop"
-     url: /shop/
    - title: "Process"
      url: /process/
-    - title: "Blog"
+   - title: "Shop"
+     url: /shop/
+   - title: "Blog"
      url: /about.html  
    - title: "About"
      url: /about.html

@@ -62,7 +62,8 @@
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
-    text-transform: uppercase;
+    font-weight: lighter;
+    /* text-transform: uppercase; */
   }
 
   li + li::before {
@@ -72,7 +73,7 @@
 
   a {
     padding-inline-end: 10px;
-    font-weight: bold;
+    font-weight: lighter;
   }
 
   .social-icons {
