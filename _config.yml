@@ -339,3 +339,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  - scope:
+      path: ""
+      type: process
+    values:
+      layout: single
+      author_profile: false
+      share: true
