@@ -28,7 +28,7 @@
   }
 
   a {
-    color: inherit;
+    color: $muted-text-color; /* inherit;*/
     text-decoration: none;
 
     &:hover {
@@ -47,6 +47,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  font-weight: lighter;
 }
 
 .page__footer-follow {
@@ -78,6 +79,7 @@
 
   .social-icons {
     a {
+      color: black;
       white-space: nowrap;
     }
   }
