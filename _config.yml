@@ -90,9 +90,16 @@ baidu_site_verification  :
 
 # Site organization
 collections:
-  - gallery
-  - blog
-  - shop
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  process:
+    output: true
+    permalink: /:collection/:path/
+  shop:
+    output: true
+  blog:
+    output: true
 
 # Social Sharing
 twitter:
@@ -130,7 +137,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://dadrummond.art"
+      url: "https://dadrummondart"
     - label: "Twitter (Science)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dallandrummond"
@@ -224,7 +231,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  quiet_deps: true
 
 # Outputting
 permalink: /:categories/:title/
@@ -324,3 +331,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
