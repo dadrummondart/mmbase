@@ -15,6 +15,7 @@
 	- Commission information
 * Add About
 	- Bio
+	- Artist statement
 	- CV
 
 Refs: 

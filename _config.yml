@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : Works of Art and Science # site tagline that appears below site title in masthead
 name                     : "D. Allan Drummond"
 description              : "Art and Science of D. Allan Drummond."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dadrummond.art # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : dadrummondart/mmbase # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -88,7 +88,7 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
-# Site organization
+# Site Organization
 collections:
   portfolio:
     output: true

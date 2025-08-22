@@ -9,6 +9,6 @@ main:
    - title: "Shop"
      url: /shop/
    - title: "Blog"
-     url: /about.html  
+     url: /blog/  
    - title: "About"
-     url: /about.html
+     url: /about/
