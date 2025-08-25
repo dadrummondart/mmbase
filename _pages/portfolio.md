@@ -14,7 +14,7 @@ gallery:
     alt: "Huntress (praying mantis)"
     title: "Huntress"
   - url: /portfolio/thorn/
-    image_path: /assets/images/thorn/thorn-bug-on-hand-hero-se.png
+    image_path: /assets/images/thorn/thorn-bug-on-hand-hero-se-8bit-bg-1600x1600.png
     alt: "Thorn (treehopper)"
     title: "Thorn"
   - url: /portfolio/proudhopper/

@@ -2,8 +2,8 @@
 title: "Thorn"
 excerpt: "bronze, silver"
 header:
-  image: /assets/images/thorn/thorn-bug-on-hand-hero-se-bg-1600x1600.png
-  teaser: /assets/images/thorn/thorn-bug-on-hand-hero-se-bg-1600x1600.png
+  image: /assets/images/thorn/thorn-bug-on-hand-hero-se-8bit-bg-1600x1600.png
+  teaser: /assets/images/thorn/thorn-bug-on-hand-hero-se-8bit-bg-1600x1600.png
 sidebar:
   - title: "Materials"
     text: "Bronze, 925 sterling silver"
@@ -14,16 +14,16 @@ sidebar:
   - title: "Edition"
     text: "First: 3 (sold); second: TBD"
 gallery:
-  - url: /assets/images/thorn/thorn-side-se-8bit.png
-    image_path: /assets/images/thorn/thorn-side-se-8bit.png
+  - url: /assets/images/thorn/thorn-side-se-1600x1600.png
+    image_path: /assets/images/thorn/thorn-side-se-1600x1600.png
     alt: "Thorn bug from side"
     title: "Thorn (lateral)"
-  - url: /assets/images/thorn/thorn-face-closeup.png
-    image_path: /assets/images/thorn/thorn-face-closeup.png
+  - url: /assets/images/thorn/thorn-face-closeup-1600x1600.png
+    image_path: /assets/images/thorn/thorn-face-closeup-1600x1600.png
     alt: "Thorn bug face closeup"
     title: "Thorn (detail)"
-  - url: /assets/images/thorn/thorn-ventral-in-hand.png
-    image_path: /assets/images/thorn/thorn-ventral-in-hand.png
+  - url: /assets/images/thorn/thorn-ventral-in-hand-1600x1600.png
+    image_path: /assets/images/thorn/thorn-ventral-in-hand-1600x1600.png
     alt: "Thorn bug ventral aspect"
     title: "Thorn (ventral)"
 ---
