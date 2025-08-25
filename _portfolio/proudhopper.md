@@ -1,23 +1,37 @@
 ---
-title: "Huntress"
-excerpt: "Bronze"
+title: "Proudhopper"
+excerpt: "Bronze and silver"
 header:
-  image: /assets/images/huntress/huntress-full.png
-  teaser: /assets/images/huntress/huntress-full.png
+  image: /assets/images/proudhopper/proudhopper-full-4x3.png
+  teaser: /assets/images/proudhopper/proudhopper-full-4x3.png
 sidebar:
   - title: "Materials"
-    text: "Bronze, neodymium"
+    text: "Bronze, sterling silver"
   - title: "Size"
     text: "[]"
+  - title: "Year"
+    text: "2019"
+  - title: "Edition"
+    text: "3 (sold out)"
 gallery:
- - url: /portfolio/huntress/
-    image_path: /assets/images/proudhopper/proudhopper-full.png
-    alt: "Huntress (praying mantis)"
-    title: "Huntress"
+  - url: /portfolio/proudhopper/
+    image_path: /assets/images/proudhopper/proudhopper-full-4x3.png
+    alt: "Proudhopper (planthopper, Fulgoridae)"
+    title: "Proudhopper"
+  - url: /portfolio/proudhopper/
+    image_path: /assets/images/proudhopper/proudhopper-full-on-hand.png
+    alt: "Proudhopper on an open hand"
+    title: "Proudhopper on hand"
+  - url: /portfolio/proudhopper/
+    image_path: /assets/images/proudhopper/proudhopper-ventral-in-hand.png
+    alt: "Proudhopper ventral aspect"
+    title: "Proudhopper ventral aspect"
 ---
 
-A female <i>Tenodera sinensis</i> praying mantis. Her raptorial forelegs are articulated at the shoulder and wrist, allowing her needle-sharp claws to be sheathed or exposed. Tiny embedded rare-earth magnets hold her claws folded, making a satisfying click as her forelegs snap into place. Her head also swivels on a rare-earth magnet, mimicking the mantis's unique capability, in the insect world, to turn its head 180 degrees. Her waist also pivots gently left and right.
+A planthopper with a prominent proboscis. Modeled after the genus Fulgoridae, this planthopper's snout is actually the top of his head; his true proboscis, used for feeding on plant sap, is the long needle-like structure held underneath his body.
+
+Planthoppers are terrific jumpers. Jumping straight requires synchronization of the two powerful back legs. To link their motion, at the base of each hind leg (in the nymph stage) is a toothed gear with its teeth enmeshed in those of the opposite leg. Proudhopper has these gears between his back legs as well, if you flip him over and look very closely.
 
 {% include gallery %}
 
-Thirteen pieces of cast bronze assembled with nuts, bolts, and five rare-earth magnets. Bronze wire antennae.
+Cast bronze body parts and 925 sterling silver wings, assembled with nuts and bolts.

@@ -10,13 +10,25 @@
 	- Larger thumbnails
 	- 
 * Add Process
+	- Research & Design
+	- Casting
+	- Assembly
+	- Finishing
 * Add Shop
 	- Free downloads
 	- Commission information
+	- Link to jewelry shop
 * Add About
-	- Bio
-	- Artist statement
+	x Bio
+	x Artist statement
 	- CV
+* More in gallery
+	- Naphrys
+	- Mother/Daughter
+	- Ceraurus
+	- Trilobite triptych
+	- Lucanus
+	- 
 
 Refs: 
 - https://www.erikasanada.com/

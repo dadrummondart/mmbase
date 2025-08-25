@@ -1,10 +1,9 @@
 ---
 title: Portfolio
-layout: default
+layout: single
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
-classes: wide
 gallery:
   - url: /portfolio/ant-aphid/
     image_path: /assets/images/ant-aphid/ant-3q-hero-white-thumb.jpg
@@ -15,7 +14,7 @@ gallery:
     alt: "Huntress (praying mantis)"
     title: "Huntress"
   - url: /portfolio/thorn/
-    image_path: /assets/images/thorn/thorn-bug-on-hand-hero.png
+    image_path: /assets/images/thorn/thorn-bug-on-hand-hero-se.png
     alt: "Thorn (treehopper)"
     title: "Thorn"
   - url: /portfolio/proudhopper/
