@@ -2,8 +2,8 @@
 title: "Thorn"
 excerpt: "bronze, silver"
 header:
-  image: /assets/images/thorn/thorn-bug-on-hand-hero-se.png
-  teaser: /assets/images/thorn/thorn-bug-on-hand-hero-se.png
+  image: /assets/images/thorn/thorn-bug-on-hand-hero-se-bg-1600x1600.png
+  teaser: /assets/images/thorn/thorn-bug-on-hand-hero-se-bg-1600x1600.png
 sidebar:
   - title: "Materials"
     text: "Bronze, 925 sterling silver"
