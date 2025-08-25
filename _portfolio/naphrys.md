@@ -1,0 +1,26 @@
+---
+title: "Naphrys"
+excerpt: "bronze, glass"
+header:
+  image: /assets/images/thorn/thorn-bug-on-hand-hero-se-8bit-bg-1600x1600.png
+  teaser: /assets/images/thorn/thorn-bug-on-hand-hero-se-8bit-bg-1600x1600.png
+sidebar:
+  - title: "Materials"
+    text: "Bronze, black glass"
+  - title: "Size"
+    text: "[]s"
+  - title: "Year"
+    text: "2021 (first edition), 2025 (second edition)"
+  - title: "Edition"
+    text: "First: three (sold); second: TBD"
+gallery:
+  - url: /assets/images/naphrys/naphrys-3q-1600x1600.png
+    image_path: /assets/images/naphrys/naphrys-3q-1600x1600.png
+    alt: "Naphrys three-quarters view"
+    title: "Naphrys"
+---
+{% include gallery %}
+
+A male <i>Naphrys pulex</i>, the flea jumping spider. Bronze with black glass eyes. Tiny petal-like setae cover his body, providing camouflage and also sensitivity to touch and vibration. He has eight eyes, most prominently his two large forward-facing eyes which allow him to see binocularly, with depth perception. 
+
+First edition: Six cast bronze pieces, eight black glass spheres. Second edition: Eight cast bronze pieces, eight black glass spheres.
