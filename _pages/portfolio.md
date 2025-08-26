@@ -10,7 +10,7 @@ gallery:
     alt: "Thorn (treehopper)"
     title: "Thorn"
   - url: /portfolio/huntress/
-    image_path: /assets/images/huntress/huntress-full.png
+    image_path: /assets/images/huntress/huntress-full-1600x1600.png
     alt: "Huntress (praying mantis)"
     title: "Huntress"
   - url: /portfolio/ant-aphid/

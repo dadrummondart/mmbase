@@ -2,8 +2,8 @@
 title: "Huntress"
 excerpt: "Bronze"
 header:
-  image: /assets/images/huntress/huntress-full.png
-  teaser: /assets/images/huntress/huntress-full.png
+  image: /assets/images/huntress/huntress-full-1600x1600.png
+  teaser: /assets/images/huntress/huntress-full-1600x1600.png
 sidebar:
   - title: "Materials"
     text: "Bronze, neodymium"
@@ -11,7 +11,7 @@ sidebar:
     text: "[]"
 gallery:
   - url: /portfolio/huntress/
-    image_path: /assets/images/huntress/huntress-full.png
+    image_path: /assets/images/huntress/huntress-full-1600x1600.png
     alt: "Huntress (praying mantis)"
     title: "Huntress"
   - url: /portfolio/huntress/
