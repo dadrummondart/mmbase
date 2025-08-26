@@ -29,6 +29,10 @@ gallery:
     image_path: /assets/images/ceraurus-reconstruction/ceraurus-3q-hero-1600x1600.png
     alt: "Ceraurus (trilobite)"
     title: "Ceraurus (trilobite)"
+  - url: /portfolio/
+    image_path: /assets/images/placeholder-silhouette.png
+    alt: "More pieces coming soon"
+    title: "More soon"
 ---
 
 {% include gallery %}
