@@ -1,6 +1,7 @@
 ---
 title: Shop
-layout: single  
+layout: single
+notitle: true  
 permalink: /shop/
 collection: shop
 entries_layout: grid
@@ -13,7 +14,7 @@ I receive this question frequently (with gratitude!) and there are several ways.
 
 ## 1. Buy from the gallery
 
-Both of my solo exhibitions have been with <a href="http://roqlarue.com">Roq La Rue</a>, an exceptional gallery in Seattle. A small number of pieces from these shows (</a href="https://www.roqlarue.com/d-allan-drummond-curiosity"><i>Curiosity</i></a> [2018] and </a href="https://www.roqlarue.com/d-allan-drummondwhitney-lewis-smith"><i>Closer</i></a>  [2021]) are still available through the gallery.
+Both of my solo exhibitions have been with <a href="http://roqlarue.com">Roq La Rue</a>, an exceptional gallery in Seattle. A small number of pieces from these shows (<a href="https://www.roqlarue.com/d-allan-drummond-curiosity"><i>Curiosity</i></a> [2018] and <a href="https://www.roqlarue.com/d-allan-drummondwhitney-lewis-smith"><i>Closer</i></a>  [2021]) are still available through the gallery.
 
 ## 2. Buy from my jewelry shop
 
@@ -21,8 +22,8 @@ I make smaller work available in my <a href="https://dadrummond.bigcartel.com">o
 
 ## 3. Commission me
 
-I am always happy to discuss commissioned work. Contact me here (serious inquiries only, please).
+I am always happy to discuss commissioned work. Contact me <a href="/contact/">here</a> (serious inquiries only, please).
 
 ## 4. Buy at a show
 
-I am working on pieces for a third solo show, and occasionally have 
+I am working on pieces for a third solo show, and occasionally have pieces available in group shows. Watch for announcements on social media (Instagram, Twitter/X, Bluesky, or Facebook).
