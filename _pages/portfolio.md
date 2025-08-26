@@ -25,8 +25,8 @@ gallery:
     image_path: /assets/images/proudhopper/proudhopper-isolated.png
     alt: "Proudhopper"
     title: "Proudhopper (planthopper)"
-  - url: /portfolio/ceraurus/
-    image_path: /assets/images/ceraurus/ceraurus-3q-hero-1600x1600.png
+  - url: /portfolio/ceraurus-reconstruction/
+    image_path: /assets/images/ceraurus-reconstruction/ceraurus-3q-hero-1600x1600.png
     alt: "Ceraurus (trilobite)"
     title: "Ceraurus (trilobite)"
 ---
