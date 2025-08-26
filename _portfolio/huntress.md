@@ -15,7 +15,7 @@ gallery:
     alt: "Huntress (praying mantis)"
     title: "Huntress"
   - url: /portfolio/huntress/
-    image_path: /assets/images/huntress/huntress-head-closeup.png
+    image_path: /assets/images/huntress/huntress-head-closeup.jpg
     alt: "Huntress (praying mantis)"
     title: "Huntress"
 ---

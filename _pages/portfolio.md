@@ -29,6 +29,10 @@ gallery:
     image_path: /assets/images/ceraurus-reconstruction/ceraurus-3q-hero-1600x1600.png
     alt: "Ceraurus (trilobite)"
     title: "Ceraurus (trilobite)"
+  - url: /portfolio/yeast-cell/
+    image_path: /assets/images/yeast-cell/yeast-cell.png
+    alt: "Dividing yeast cells"
+    title: "Mother/Daughter"
   - url: /portfolio/
     image_path: /assets/images/placeholder-silhouette.png
     alt: "More pieces coming soon"
