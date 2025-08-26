@@ -30,7 +30,7 @@ gallery:
     alt: "Ceraurus (trilobite)"
     title: "Ceraurus (trilobite)"
   - url: /portfolio/yeast-cell/
-    image_path: /assets/images/yeast-cell/yeast-cell.png
+    image_path: /assets/images/yeast-cell/yeast-cell-top-1600x1600.png
     alt: "Dividing yeast cells"
     title: "Mother/Daughter"
   - url: /portfolio/
