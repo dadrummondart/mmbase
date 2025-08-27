@@ -1,6 +1,7 @@
 ---
 title: Process
-layout: single  
+notitle: true
+layout: single
 permalink: /process/
 collection: process
 entries_layout: grid

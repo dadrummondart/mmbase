@@ -1,5 +1,6 @@
 ---
 title: About D. Allan Drummond
+notitle: true
 layout: single
 permalink: /about/
 ---

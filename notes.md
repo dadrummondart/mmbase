@@ -3,29 +3,31 @@
 * Make home page
 	- Top line
 	- Gallery, swapping
+	- Quick links to shop
 	- Two-column: News,
 	- Effect: Google "website effect top bar appears upon scrolling jekyll"
 * Fix gallery page
-	- No titles or descriptions (or rollover)
-	- Larger thumbnails
+	x No titles or descriptions (or rollover)
+	x Larger thumbnails
 	- 
 * Add Process
 	- Research & Design
 	- Casting
 	- Assembly
+		- Fix pieces and parts pictures
 	- Finishing
 * Add Shop
 	- Free downloads
-	- Commission information
-	- Link to jewelry shop
+	x Commission information
+	x Link to jewelry shop
 * Add About
 	x Bio
 	x Artist statement
 	- CV
 * More in gallery
-	- Naphrys
-	- Mother/Daughter
-	- Ceraurus
+	x Naphrys
+	x Mother/Daughter
+	x Ceraurus
 	- Trilobite triptych
 	- Lucanus
 	- 
