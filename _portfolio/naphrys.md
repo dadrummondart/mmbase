@@ -2,8 +2,8 @@
 title: "Naphrys"
 excerpt: "bronze, glass"
 header:
-  image: /assets/images/thorn/thorn-bug-on-hand-hero-se-8bit-bg-1600x1600.png
-  teaser: /assets/images/thorn/thorn-bug-on-hand-hero-se-8bit-bg-1600x1600.png
+  image: /assets/images/naphrys/naphrys-side-1600x1600.png
+  teaser: /assets/images/naphrys/naphrys-side-1600x1600.png
 sidebar:
   - title: "Materials"
     text: "Bronze, black glass"
@@ -18,6 +18,10 @@ gallery:
     image_path: /assets/images/naphrys/naphrys-3q-1600x1600.png
     alt: "Naphrys three-quarters view"
     title: "Naphrys"
+  - url: /assets/images/naphrys/naphrys-ventral-hand-1600x1600.png
+    image_path: /assets/images/naphrys/naphrys-ventral-hand-1600x1600.png
+    alt: "Naphrys ventral view"
+    title: "Naphrys, ventral view"
 ---
 {% include gallery %}
 

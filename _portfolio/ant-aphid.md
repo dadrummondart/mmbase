@@ -14,16 +14,16 @@ sidebar:
   - title: "Edition"
     text: "Open"
 gallery:
-  - url: /assets/images/ant-aphid/ant-head-closeup-square.png
-    image_path: /assets/images/ant-aphid/ant-head-closeup-square.png
+  - url: /assets/images/ant-aphid/ant-head-closeup-square-1600x1600.png
+    image_path: /assets/images/ant-aphid/ant-head-closeup-square-1600x1600.png
     alt: "Worker ant head closeup"
     title: "Worker ant head (closeup)"
-  - url: /assets/images/ant-aphid/ant-rear-3q-white.png
-    image_path: /assets/images/ant-aphid/ant-rear-3q-white.png
+  - url: /assets/images/ant-aphid/ant-rear-3q-white-1600x1600.png
+    image_path: /assets/images/ant-aphid/ant-rear-3q-white-1600x1600.png
     alt: "Worker ant from rear, three-quarters view"
     title: "Worker ant view from just behind"
-  - url: /assets/images/ant-aphid/ant-ventral-white.png
-    image_path: /assets/images/ant-aphid/ant-ventral-white.png
+  - url: /assets/images/ant-aphid/ant-ventral-white-1600x1600.png
+    image_path: /assets/images/ant-aphid/ant-ventral-white-1600x1600.png
     alt: "Worker ant ventral aspect"
     title: "Worker ant ventral view"
 ---

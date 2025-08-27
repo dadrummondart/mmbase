@@ -1,6 +1,7 @@
 ---
 title: Process
-layout: single  
+notitle: true
+layout: single
 permalink: /process/
 collection: process
 entries_layout: grid
@@ -37,7 +38,7 @@ Resin patterns are turned into metal parts through the ancient process of lost-w
 Most works are composed of multiple pieces to be assembled.
 
 <figure class="half">
-  <a href="/assets/images/ant-aphid/ant-metal-parts.png"><img src="/assets/images/ant-aphid/ant-metal-parts.png"></a>
+  <a href="/assets/images/ant-aphid/ant-metal-parts.png"><img src="/assets/images/ant-aphid/ant-metal-parts-1600x1600.png"></a>
   <a href="/assets/images/thorn/thorn-parts-white.png"><img src="/assets/images/thorn/thorn-parts-white.png"></a>
   <figcaption>Bronze parts of a <a href="/portfolio/ant-aphid/">worker ant</a> and a <a href="/portfolio/thorn/">thorn bug</a>.</figcaption>
 </figure>
