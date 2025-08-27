@@ -8,7 +8,7 @@ sidebar:
   - title: "Materials"
     text: "Bronze, black glass"
   - title: "Size"
-    text: "[]s"
+    text: "6.25 x 5.25 x 3 in. (17 x 13.5 x 7.5 cm)"
   - title: "Year"
     text: "2021 (first edition), 2025 (second edition)"
   - title: "Edition"
