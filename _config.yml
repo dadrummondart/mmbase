@@ -93,13 +93,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  process:
-    output: true
-    permalink: /:collection/:path/
-  shop:
-    output: true
-  blog:
-    output: true
 
 # Social Sharing
 twitter:
