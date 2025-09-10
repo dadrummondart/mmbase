@@ -22,6 +22,10 @@ gallery:
     image_path: /assets/images/naphrys/naphrys-ventral-hand-1600x1600.png
     alt: "Naphrys ventral view"
     title: "Naphrys, ventral view"
+  - url: /assets/images/naphrys/naphrys-parts-1600x1600.png
+    image_path: /assets/images/naphrys/naphrys-parts-1600x1600.png
+    alt: "Naphrys ventral view"
+    title: "Naphrys, ventral view"
 ---
 {% include gallery %}
 
