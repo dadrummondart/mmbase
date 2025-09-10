@@ -39,8 +39,8 @@ Most works are composed of multiple pieces to be assembled.
 
 <figure class="half">
   <a href="/assets/images/ant-aphid/ant-metal-parts.png"><img src="/assets/images/ant-aphid/ant-metal-parts-1600x1600.png"></a>
-  <a href="/assets/images/thorn/thorn-parts-white.png"><img src="/assets/images/thorn/thorn-parts-white.png"></a>
-  <figcaption>Bronze parts of a <a href="/portfolio/ant-aphid/">worker ant</a> and a <a href="/portfolio/thorn/">thorn bug</a>.</figcaption>
+  <a href="/assets/images/naphrys/naphrys-parts-1600x1600.png"><img src="/assets/images/naphrys/naphrys-parts-1600x1600.png"></a>
+  <figcaption>Bronze parts of a <a href="/portfolio/ant-aphid/">worker ant</a> and a <a href="/portfolio/naphrys/">jumping spider</a>.</figcaption>
 </figure>
 
 
