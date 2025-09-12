@@ -22,7 +22,7 @@ gallery:
     alt: "Naphrys pulex jumping spider"
     title: "Naphrys (jumping spider)"
   - url: /portfolio/proudhopper/
-    image_path: /assets/images/proudhopper/proudhopper-isolated.png
+    image_path: /assets/images/proudhopper/proudhopper-se-full-side-1600x1600.png
     alt: "Proudhopper"
     title: "Proudhopper (planthopper)"
   - url: /portfolio/ceraurus-reconstruction/
