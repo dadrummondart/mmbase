@@ -2,27 +2,27 @@
 title: "Proudhopper"
 excerpt: "Bronze and silver"
 header:
-  image: /assets/images/proudhopper/proudhopper-se-full-side-1600x1600.png
-  teaser: /assets/images/proudhopper/proudhopper-se-full-side-1600x1600.png
+  image: /assets/images/proudhopper/proudhopper-se-full-side-1200x1600.png
+  teaser: /assets/images/proudhopper/proudhopper-se-full-side-1200x1600.png
 sidebar:
   - title: "Materials"
     text: "Bronze, sterling silver"
   - title: "Size"
-    text: "3 x 5 x 4.5 in"
+    text: "3 x 5 x 3.5 in"
   - title: "Year"
     text: "2019, 2025"
   - title: "Edition"
     text: "First: three (sold); second: TBD"
 gallery:
-  - url: /portfolio/proudhopper/
-    image_path: /assets/images/proudhopper/proudhopper-se-full-side-1600x1600.png
+  - url: /assets/images/proudhopper/proudhopper-se-full-side-1200x1600.png
+    image_path: /assets/images/proudhopper/proudhopper-se-full-side-1200x1600.png
     alt: "Proudhopper (planthopper, Fulgoridae)"
     title: "Proudhopper"
-  - url: /portfolio/proudhopper/
+  - url: /assets/images/proudhopper/proudhopper-se-full-on-hand-1600x1600.png
     image_path: /assets/images/proudhopper/proudhopper-se-full-on-hand-1600x1600.png
     alt: "Proudhopper on an open hand"
     title: "Proudhopper on hand"
-  - url: /portfolio/proudhopper/
+  - url: /assets/images/proudhopper/proudhopper-se-ventral-in-hand-1600x1600.png
     image_path: /assets/images/proudhopper/proudhopper-se-ventral-in-hand-1600x1600.png
     alt: "Proudhopper ventral aspect"
     title: "Proudhopper ventral aspect"
@@ -35,3 +35,5 @@ Planthoppers are terrific jumpers. Jumping straight requires synchronization of 
 {% include gallery %}
 
 Cast bronze body parts and 925 sterling silver eyes and wings, assembled with nuts and bolts.
+
+First edition: Seven cast bronze and 925 sterling silver pieces. Second edition: Fifteen cast bronze and 925 sterling silver pieces.

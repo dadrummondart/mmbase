@@ -9,13 +9,17 @@
 * Fix gallery page
 	x No titles or descriptions (or rollover)
 	x Larger thumbnails
-	- 
+* Portfolio
+	- Update sizes
 * Add Process
 	- Research & Design
+		- Image
 	- Casting
+		- Images
 	- Assembly
 		- Fix pieces and parts pictures
 	- Finishing
+		- Example
 * Add Shop
 	- Free downloads
 	x Commission information

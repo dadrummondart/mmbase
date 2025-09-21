@@ -10,11 +10,11 @@ sidebar:
   - title: "Size"
     text: "[]"
 gallery:
-  - url: /portfolio/huntress/
+  - url: /assets/images/huntress/huntress-full-1600x1600.png
     image_path: /assets/images/huntress/huntress-full-1600x1600.png
     alt: "Huntress (praying mantis)"
     title: "Huntress"
-  - url: /portfolio/huntress/
+  - url: /assets/images/huntress/huntress-head-closeup.jpg
     image_path: /assets/images/huntress/huntress-head-closeup.jpg
     alt: "Huntress (praying mantis)"
     title: "Huntress"

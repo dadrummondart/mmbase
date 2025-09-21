@@ -25,7 +25,7 @@ gallery:
   - url: /assets/images/naphrys/naphrys-parts-1600x1600.png
     image_path: /assets/images/naphrys/naphrys-parts-1600x1600.png
     alt: "Naphrys ventral view"
-    title: "Naphrys, ventral view"
+    title: "Naphrys, pieces and parts"
 ---
 {% include gallery %}
 

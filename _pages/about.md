@@ -21,3 +21,4 @@ My work is an invitation to look closer at the intricate details of the living w
 [boi]: https://boingboing.net/2018/12/17/art-show-of-exquisite-bronze-t.html
 [pbs]: https://www.facebook.com/watch/?v=10156252525083675
 [sci]: https://www.the-scientist.com/image-of-the-day--nature-by-hand--65283
+[roq]: https://www.roqlarue.com/d-allan-drummondwhitney-lewis-smith
