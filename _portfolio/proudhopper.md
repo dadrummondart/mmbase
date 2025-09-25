@@ -2,8 +2,8 @@
 title: "Proudhopper"
 excerpt: "Bronze and silver"
 header:
-  image: /assets/images/proudhopper/proudhopper-se-full-side-1200x1600.png
-  teaser: /assets/images/proudhopper/proudhopper-se-full-side-1200x1600.png
+  image: /assets/images/proudhopper/proudhopper-se-full-side-1600x1200.png
+  teaser: /assets/images/proudhopper/proudhopper-se-full-side-1600x1200.png
 sidebar:
   - title: "Materials"
     text: "Bronze, sterling silver"
@@ -14,8 +14,8 @@ sidebar:
   - title: "Edition"
     text: "First: three (sold); second: TBD"
 gallery:
-  - url: /assets/images/proudhopper/proudhopper-se-full-side-1200x1600.png
-    image_path: /assets/images/proudhopper/proudhopper-se-full-side-1200x1600.png
+  - url: /assets/images/proudhopper/proudhopper-se-full-side-1600x1200.png
+    image_path: /assets/images/proudhopper/proudhopper-se-full-side-1600x1200.png
     alt: "Proudhopper (planthopper, Fulgoridae)"
     title: "Proudhopper"
   - url: /assets/images/proudhopper/proudhopper-se-full-on-hand-1600x1600.png
