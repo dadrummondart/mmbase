@@ -101,7 +101,7 @@ facebook:
   username               : dadrummond.art
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/huntress/huntress-front-side-thumbnail.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -113,7 +113,7 @@ social:
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-P3S5QRJS9P
     anonymize_ip         : # true, false (default)
 
 
