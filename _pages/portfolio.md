@@ -33,6 +33,10 @@ gallery:
     image_path: /assets/images/yeast-cell/yeast-cell-top-1600x1600.png
     alt: "Dividing yeast cells"
     title: "Mother/Daughter"
+  - url: /portfolio/scenicus/
+    image_path: /assets/images/scenicus/scenicus-3q-1600x1600.jpg
+    alt: "Salticus scenicus (jumping spider)"
+    title: "Scenicus (jumping spider)"
   - url: /portfolio/
     image_path: /assets/images/placeholder-silhouette.png
     alt: "More pieces coming soon"

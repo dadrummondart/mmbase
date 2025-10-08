@@ -2,8 +2,8 @@
 title: "Scenicus"
 excerpt: "bronze, glass"
 header:
-  image: /assets/images/scenicus/scenicus-side-1600x1600.png
-  teaser: /assets/images/scenicus/scenicus-side-1600x1600.png
+  image: /assets/images/scenicus/scenicus-3q-1600x1600.jpg
+  teaser: /assets/images/scenicus/scenicus-3q-1600x1600.jpg
 sidebar:
   - title: "Materials"
     text: "Bronze, black glass"
@@ -18,7 +18,7 @@ gallery:
     image_path: /assets/images/scenicus/scenicus-3q-1600x1600.jpg
     alt: "Scenicus three-quarters view"
     title: "Scenicus"
-   - url: /assets/images/scenicus/scenicus-side-hand-1600x1600.jpg
+  - url: /assets/images/scenicus/scenicus-side-hand-1600x1600.jpg
     image_path: /assets/images/scenicus/scenicus-side-hand-1600x1600.jpg
     alt: "Scenicus three-quarters view"
     title: "Scenicus"
