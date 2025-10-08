@@ -31,4 +31,4 @@ gallery:
 
 A male <i>Naphrys pulex</i>, the flea jumping spider. Bronze with black glass eyes. Tiny petal-like setae cover his body, providing camouflage and also sensitivity to touch and vibration. He has eight eyes, most prominently his two large forward-facing eyes which allow him to see binocularly, with depth perception. 
 
-First edition: Six cast bronze pieces, eight black glass spheres. Second edition: Eight cast bronze pieces, eight black glass spheres.
+First edition: Seven cast bronze pieces, eight black glass spheres. Second edition: Nine cast bronze pieces, eight black glass spheres.

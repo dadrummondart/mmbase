@@ -1,5 +1,5 @@
 ---
-title: "Naphrys"
+title: "Scenicus"
 excerpt: "bronze, glass"
 header:
   image: /assets/images/scenicus/scenicus-side-1600x1600.png
@@ -10,9 +10,9 @@ sidebar:
   - title: "Size"
     text: "6.25 x 5.25 x 3 in. (17 x 13.5 x 7.5 cm)"
   - title: "Year"
-    text: "2021 (first edition), 2025 (second edition)"
+    text: "2018"
   - title: "Edition"
-    text: "First: three (sold); second: TBD"
+    text: "First: three (sold)"
 gallery:
   - url: /assets/images/scenicus/scenicus-3q-1600x1600.jpg
     image_path: /assets/images/scenicus/scenicus-3q-1600x1600.jpg
