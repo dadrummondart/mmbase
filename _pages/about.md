@@ -7,7 +7,7 @@ permalink: /about/
 
 # Biography 
 
-By day, Allan is Associate Professor of Biochemistry & Molecular Biology at the University of Chicago, with a secondary appointment in the Department of Medicine, Section of Genetic Medicine. His academic lab's page is [The Drummond Lab][dlab]. He joined the UChicago faculty in 2011 after an independent fellowship at Harvard. He received his Ph.D. in Computation and Neural Systems from [Caltech][1], advised by Frances H. Arnold (Nobel Prize in Chemistry, 2018).
+By day, Allan is a Professor of Biochemistry & Molecular Biology at the University of Chicago, with a secondary appointment in the Department of Medicine, Section of Genetic Medicine. His academic lab's page is [The Drummond Lab][dlab]. He joined the UChicago faculty in 2011 after an independent fellowship at Harvard. He received his Ph.D. in Computation and Neural Systems from [Caltech][1], advised by Frances H. Arnold (Nobel Prize in Chemistry, 2018).
 
 By night, Allan is a sculptor and visual artist whose work has been featured in [Colossal][col], [Nerdist][ner], [PBS NewsHour][pbs], [The Scientist][sci], and elsewhere. He works primarily in metal and dabbles in ink and pencil. He has had two solo exhibitions with [Roq La Rue][roq] and has contributed to multiple group shows. He is presently at work on pieces for his third exhibition.
 
